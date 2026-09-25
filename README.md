@@ -1,4 +1,4 @@
-** # Olá! Eu sou a Laiane 👋 **
+**# Olá! Eu sou a Laiane 👋**
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🌱 Desenvolvedora Web em formação  
