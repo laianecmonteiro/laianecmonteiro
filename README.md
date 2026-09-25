@@ -1,31 +1,4 @@
-<h2 align="center">
-  <span class="typing">Olá! Eu me chamo Laiane.</span>
-</h2>
-
-<style>
-.typing {
-  overflow: hidden;
-  border-right: 3px solid;
-  white-space: nowrap;
-  display: inline-block;
-  animation: typing 3s steps(25, end), blink .7s step-end infinite;
-}
-
-@keyframes typing {
-  from {
-    width: 0;
-  }
-  to {
-    width: 100%;
-  }
-}
-
-@keyframes blink {
-  50% {
-    border-color: transparent;
-  }
-}
-</style>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá!+Eu+me+chamo+Laiane.)](https://git.io/typing-svg)
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🌱 Desenvolvedora Web em formação  
