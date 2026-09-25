@@ -5,6 +5,8 @@
 🚀 Buscando uma vaga de estágio em Desenvolvimento Web
 🎯 Crescer na área  de tecnogolia
 
+<hr>
+
 <h3>🛠️ Tecnologias</h3>
 
 - HTML
