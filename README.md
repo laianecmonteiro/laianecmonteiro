@@ -1,3 +1,31 @@
+<h2 align="center">
+  <span class="typing">Olá! Eu me chamo Laiane.</span>
+</h2>
+
+<style>
+.typing {
+  overflow: hidden;
+  border-right: 3px solid;
+  white-space: nowrap;
+  display: inline-block;
+  animation: typing 3s steps(25, end), blink .7s step-end infinite;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+</style>
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🌱 Desenvolvedora Web em formação  
