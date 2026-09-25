@@ -4,8 +4,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🌱 Desenvolvedora Web em formação  
-🚀 Buscando uma vaga de estágio em Desenvolvimento Web
-🎯 Crescer na área  de tecnogolia
+🚀 Buscando uma vaga de <i>estágio</i> em Desenvolvimento Web
 
 <hr>
 
