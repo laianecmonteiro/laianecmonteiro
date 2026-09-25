@@ -1,11 +1,11 @@
-**# Olá! Eu sou a Laiane 👋**
+<h1>Olá! Eu sou Laiane 👋</h1> 
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🌱 Desenvolvedora Web em formação  
 🚀 Buscando uma vaga de estágio em Desenvolvimento Web
 🎯 Crescer na área  de tecnogolia
 
-## 🛠️ Tecnologias
+<h3>🛠️ Tecnologias</h3>
 
 - HTML
 - CSS
@@ -15,14 +15,14 @@
 - Git
 - GitHub
 
-## 📚 Atualmente estudando
+<h3>📚 Atualmente estudando</h3>
 
 - Desenvolvimento Front-End
 - JavaScript
 - React
 - IA Generativa
 
-## 🚀 Projetos
+<h3>🚀 Projetos</h3>
 
 ### Landing Page Starbucks
 Inspirada na identidade visual do Starbucks.
