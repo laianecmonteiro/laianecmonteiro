@@ -1,4 +1,4 @@
-<h1>Olá! Eu me Laiane 👋</h1> 
+<h1><i>Olá! Eu me Laiane 👋</i></h1> 
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🌱 Desenvolvedora Web em formação  
