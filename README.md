@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Olá%2C+eu+me+chamo+Laiane+👋" alt="Olá, eu me chamo Laiane">
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Olá!%2C+Eu+me+chamo+Laiane+👋" alt="Olá, eu me chamo Laiane">
+</p>
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🌱 Desenvolvedora Web em formação  
