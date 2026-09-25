@@ -1,6 +1,6 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá!+Eu+me+chamo+Laiane.)](https://git.io/typing-svg)
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C9A58D&center=true&vCenter=true&width=600&lines=Olá!+Eu+me+chamo+Laiane.)](https://git.io/typing-svg)
+
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🌱 Desenvolvedora Web em formação  
