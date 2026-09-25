@@ -3,7 +3,7 @@
 
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🌱 Desenvolvedora Web em formação  
+🌱 Desenvolvedora em formação  
 🚀 Buscando uma vaga de <i>estágio</i> em Desenvolvimento Web
 
 <hr>
